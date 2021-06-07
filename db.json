@@ -1,0 +1,35 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Roast Pork Sandwich",
+      "description": "Tender, oven-roasted pork shoulder, usually shaved or chopped, gets layered with melted sharp provolone cheese and garlicky sautéed broccoli rabe on an Italian roll.",
+      "image_url": "https://www.visitphilly.com/wp-content/uploads/2018/09/roast-pork-sandwich-johns-roast-pork-E-Teel-VP-1200x900-1044x781.jpg",
+      "reviews": [
+        "A Philly Staple",
+        "I can make these with my eyes closed",
+        "Better than a Philly Cheesesteak",
+        "John's Roast Pork is the best place to get one of these!"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Philly Soft Pretzels",
+      "description": "A favorite local snack introduced by German settlers centuries ago.",
+      "image_url": "https://www.visitphilly.com/wp-content/uploads/2018/09/Phila-Pretzel-Co-Pretzel-J-Varney-VP-1200x900-1044x781.jpg",
+      "reviews": [
+        "Not great for a meal but perfect for a snack",
+        "Amazing with mustard"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Tomato Pie",
+      "description": "Made with thick, focaccia-like dough, fresh tomato sauce and sometimes a hint of grated Romano cheese.",
+      "image_url": "https://lh3.googleusercontent.com/proxy/L9ouScI3ZIerv7Hxr8kwRWG8jvRGr8KihQ5NB2KE3HMo9hrpy4cZgkbK17H_3vO0OBMzPaS_qubpswx-1kDvBfkoBg6TVr5fMyMsC0jgEe7x3c8W10ESPxociiolRgpXLR9PZSuowgQ_936CvKI",
+      "reviews": [
+        "An Italian Staple!"
+      ]
+    }
+  ]
+}
